@@ -1,0 +1,7 @@
+.venv
+.tox
+.eggs
+__pycache__
+*.egg-info
+pip-wheel-metadata
+*.log
