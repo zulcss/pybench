@@ -1,0 +1,16 @@
+#!/usr/bin/python
+
+import click
+
+from pbench.agent import logger
+
+LOG = logger.LOG
+
+
+@click.command()
+def main():
+    LOG.info("hello world")
+
+
+if __name__ == "__main__":
+    main()

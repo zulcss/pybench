@@ -2,3 +2,4 @@ ansible
 elasticsearch
 sh
 click
+colorlog
