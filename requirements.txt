@@ -2,9 +2,3 @@ ansible
 elasticsearch
 sh
 click
-cffi
-redis
-python-pidfile
-python-daemon
-bottle
-colorlog
